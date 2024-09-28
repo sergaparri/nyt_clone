@@ -1,0 +1,477 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "Sports",
+    "last_updated": "2024-09-26T16:49:13-04:00",
+    "num_results": 9,
+    "results": [
+        {
+            "section": "",
+            "subsection": "",
+            "title": "The Truth Behind Travis Kelce’s Slow Start",
+            "abstract": "The Kansas City star’s production is down. It’s not because he’s past his prime, a columnist for The Athletic writes.",
+            "url": "https://www.nytimes.com/athletic/5792045/2024/09/26/travis-kelce-slow-start-performance-chiefs/",
+            "uri": "nyt://promo/43f25b3c-3d3d-5853-81e4-bc7c4b5391b2",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T10:00:15-04:00",
+            "published_date": "2024-09-26T10:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Chiefs-Travis-Kelce-1727329119780/tamc-092624-Chiefs-Travis-Kelce-1727329119780-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Sabitus/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Chiefs-Travis-Kelce-1727329119780/tamc-092624-Chiefs-Travis-Kelce-1727329119780-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Sabitus/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Chiefs-Travis-Kelce-1727329119780/tamc-092624-Chiefs-Travis-Kelce-1727329119780-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kevin Sabitus/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Caitlin Clark’s Rookie Season Was a Success. Now Comes the Hard Part.",
+            "abstract": "The Indiana Fever enter a crucial off-season in hopes of building a title contender around their star, a columnist for The Athletic writes.",
+            "url": "https://www.nytimes.com/athletic/5796597/2024/09/26/caitlin-clark-fever-wnba-playoffs-future/",
+            "uri": "nyt://promo/271200ba-7e0c-58e5-8bbf-c558dc795165",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T14:47:09-04:00",
+            "published_date": "2024-09-26T14:47:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-caitlin-clark/tamc-092624-caitlin-clark-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joe Buglewicz/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-caitlin-clark/tamc-092624-caitlin-clark-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joe Buglewicz/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-caitlin-clark/tamc-092624-caitlin-clark-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joe Buglewicz/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "What Tom Hanks and Other Fans Think About the A’s Leaving Oakland",
+            "abstract": "“How in the world,” Hanks wrote in an email to The Athletic, “does Major League Baseball turn inside-out one of the most storied franchises in the history of the game?”",
+            "url": "https://www.nytimes.com/athletic/5795210/2024/09/26/oakland-as-famous-fans-mourn/",
+            "uri": "nyt://promo/ede432cf-ec58-5388-b1c4-e9ffc8200f2b",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T10:00:40-04:00",
+            "published_date": "2024-09-26T10:00:40-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-hanks/tamc-092624-hanks-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1310,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Koji Sasahara/Associated Press Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-hanks/tamc-092624-hanks-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Koji Sasahara/Associated Press Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-hanks/tamc-092624-hanks-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Koji Sasahara/Associated Press Photo"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Daniel Ricciardo Deserved Better Than This",
+            "abstract": "This was never how the driver’s Formula 1 career was supposed to end, a columnist for The Athletic writes.",
+            "url": "https://www.nytimes.com/athletic/5796515/2024/09/26/daniel-ricciardo-red-bull-f1-goodbye-singapore/",
+            "uri": "nyt://promo/fd3a505a-cb89-5715-bcf3-6234065cc3bf",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T14:47:30-04:00",
+            "published_date": "2024-09-26T14:47:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-ricciardo/tamc-092624-ricciardo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Thompson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-ricciardo/tamc-092624-ricciardo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Thompson/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-ricciardo/tamc-092624-ricciardo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Thompson/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "In His ‘Office,’ Bryce Harper Advises the Next Generation of M.L.B. Hitters",
+            "abstract": "Opponents have started to see a different version of the Phillies’ star.",
+            "url": "https://www.nytimes.com/athletic/5791213/2024/09/26/bryce-harper-phillies-first-base-mentoring-young-players/",
+            "uri": "nyt://promo/82462ece-1209-5c17-a102-e5087f5684f1",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T14:47:54-04:00",
+            "published_date": "2024-09-26T14:47:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Bryce-Hyper-1727329508884/tamc-092624-Bryce-Hyper-1727329508884-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mitchell Leff/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Bryce-Hyper-1727329508884/tamc-092624-Bryce-Hyper-1727329508884-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mitchell Leff/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-Bryce-Hyper-1727329508884/tamc-092624-Bryce-Hyper-1727329508884-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mitchell Leff/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Manchester United Sets Goal to Win Premier League by 2028",
+            "abstract": "The club is currently 11th in the league after two wins, one draw and two defeats.",
+            "url": "https://www.nytimes.com/athletic/5796091/2024/09/26/manchester-united-premier-league-title-omar-berrada/",
+            "uri": "nyt://promo/c36ba155-d87c-5094-8a9d-3ef27f5be39e",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T14:48:09-04:00",
+            "published_date": "2024-09-26T14:48:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-man-u-ceo/tamc-092624-man-u-ceo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1350,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ash Donelon/Manchester United, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-man-u-ceo/tamc-092624-man-u-ceo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ash Donelon/Manchester United, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-man-u-ceo/tamc-092624-man-u-ceo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ash Donelon/Manchester United, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "The 10 M.L.B. Managers Facing the Most Scrutiny",
+            "abstract": "Aaron Boone’s fate might hinge on what happens in the postseason, a columnist for The Athletic writes.",
+            "url": "https://www.nytimes.com/athletic/5795167/2024/09/26/mlb-managers-hot-seat-aaron-boone-dave-roberts/",
+            "uri": "nyt://promo/0ce3691b-9b5a-5c49-a889-7b373bc35338",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T14:48:29-04:00",
+            "published_date": "2024-09-26T14:48:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-aaron-boone/tamc-092624-aaron-boone-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Sloter/Image of Sport, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-aaron-boone/tamc-092624-aaron-boone-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Sloter/Image of Sport, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-aaron-boone/tamc-092624-aaron-boone-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Brandon Sloter/Image of Sport, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Kirby Smart Should Be the King of College Football. Is He Ready?",
+            "abstract": "Nick Saban’s retirement has opened the throne. But there’s one aspect of the Georgia program that clouds Smart’s myriad successes.",
+            "url": "https://www.nytimes.com/athletic/5795152/2024/09/26/kirby-smart-georgia-football-alabama-arrests-recruiting/",
+            "uri": "nyt://promo/3394f050-cc39-5a91-b910-5d87a5cc3668",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T10:01:01-04:00",
+            "published_date": "2024-09-26T10:01:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-kirby/tamc-092624-kirby-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rich von Biberstein/Icon Sportswire, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-kirby/tamc-092624-kirby-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rich von Biberstein/Icon Sportswire, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/multimedia/tamc-092624-kirby/tamc-092624-kirby-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rich von Biberstein/Icon Sportswire, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Which N.F.L. Team Has the Best Front Office? One Stands Above the Rest.",
+            "abstract": "Forty league executives and coaches submitted a ballot with their top five. These are the results.",
+            "url": "https://www.nytimes.com/athletic/5777310/2024/09/26/nfl-front-office-rankings/",
+            "uri": "nyt://promo/ff0fcf7e-3b32-58e2-af48-20469a18e013",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-09-26T16:49:13-04:00",
+            "created_date": "2024-09-26T09:59:59-04:00",
+            "published_date": "2024-09-26T09:59:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-NFL-front-offices-1727328986464/tamc-092624-NFL-front-offices-1727328986464-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Michael Zagaris/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-NFL-front-offices-1727328986464/tamc-092624-NFL-front-offices-1727328986464-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Michael Zagaris/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/26/the-athletic/tamc-092624-NFL-front-offices-1727328986464/tamc-092624-NFL-front-offices-1727328986464-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Michael Zagaris/Getty Images"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
