@@ -2,7 +2,7 @@
   "name": "clone2",
   "version": "1.0.0",
   "scripts": {
-    "build" : "parcel build --public-url https://sergaparri.github.io/CLONE2 src/index.html",
+    "build" : "parcel build --public-url https://sergaparri.github.io/nyt_clone src/index.html",
     "dev" : "parcel serve src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
