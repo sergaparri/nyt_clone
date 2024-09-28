@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Franklin Gothic Medium';
+}
+
+header {
+  background-color: black;
+  font-size: 40px;
+  color: orange;
+  font-family: 'Times New Roman';
+  text-align: center;
+}
+
+
+.btncontainer {
+  display: flex;
+  justify-content: center; 
+  gap: 30px; 
+  margin: 00px 0;
+}
+
+#loadArtsBtn,
+#loadNewsBtn,
+#loadSportsBtn {
+  padding: 10px 20px;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 30px;
+  cursor: pointer;
+  transition: background-color 0.3s; 
+}
+#loadArtsBtn:hover,
+#loadNewsBtn:hover,
+#loadSportsBtn:hover {
+  background-color: orange; 
+}
+
+.news-sections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 2900px;
+  margin: 2rem auto;
+}
+
+article {
+  flex: 1 1 30%;
+  margin: 2rem;
+  border-radius: 10px; 
+  transition: transform 0.3s, box-shadow 0.3s; 
+  box-sizing: border-box; 
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); 
+}
+
+article:hover {
+  transform: translateY(-50px); 
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.7); 
+}
+
+@media (max-width: 768px) {
+  article {
+    flex: 1 1 100%;
+  }
+}
+
+article img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px 10px; 
+}
+
+article h4 {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  color: white;
+}
+
+article p {
+  margin-top: 0.5rem;
+  font-size: 2rem;
+  color: aliceblue;
+}
+
+article a {
+  color: orange;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px; 
+  margin-top: 0.5rem;
+}
+
+article a:hover {
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  color: aliceblue;
+  font-size: 50px;
+  margin-top: 2rem;
+}
