@@ -1,16 +1,6 @@
-35
-76C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.2cdaf7bc.css.map133721018568208787 0
-75C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.95ac9aac.js.map133721018381362682 0
-64C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.html133721018567507996 0
-72C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.2cdaf7bc.css133721018568175216 0
-75C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.f68744d1.js.map133721018568030471 0
-75C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\nyt_clone.59712999.js133721018567619912 0
-71C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.f68744d1.js133721018567952348 0
-79C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\nyt_clone.59712999.js.map133721018567684587 0
-76C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.9eebb83e.css.map133721018381362682 0
+31
 72C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs\CLONE2.59712999.js133721015922262467 0
 59C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\.gitignore133719793333212983 0
-53C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist133721018568219298 1
 53C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs133721015923086768 1
 76C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs\CLONE2.59712999.js.map133721015922323042 0
 66C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\package-lock.json133719714129888705 0
@@ -32,5 +22,11 @@
 72C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs\index.9eebb83e.css133721015922762696 0
 76C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs\index.9eebb83e.css.map133721015922855909 0
 71C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\docs\index.f68744d1.js133721015922945585 0
-71C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.95ac9aac.js133721018381242234 0
-72C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.9eebb83e.css133721018381242234 0
+53C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist133721021095922838 1
+72C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.2cdaf7bc.css133721021095765047 0
+64C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.html133721021095765047 0
+75C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\nyt_clone.59712999.js133721021095765047 0
+71C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.f68744d1.js133721021095765047 0
+79C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\nyt_clone.59712999.js.map133721021095859240 0
+76C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.2cdaf7bc.css.map133721021095859240 0
+75C:\Users\serga\OneDrive\Desktop\CLONE2\nyt_clone\dist\index.f68744d1.js.map133721021095859240 0
